@@ -13,8 +13,12 @@
 	<li>Full payment method at admin magento.</li>
 </ul>
 
-<p><strong>Install <a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">Magento Multi Vendor Marketplace</a> to be able to use this plugin</strong></p>
+<p><strong>Related Add-ons: <a href="https://github.com/magebaycom/magento-marketplace-question-answer">Magento Marketplace Question Answer</a></strong></p>
 
-<p><strong><em>- Contact </em><em>us:</em><em> info@magebay.com</em></strong></p>
+<p>-----------------------------------------------------------------------------------------------------------------------------------</p>
 
-<p><strong><em>- Website: <a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></strong></p>
+<p>Install <a href="https://www.magebay.com/magento-multi-vendor-marketplace-extension" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">Magebay Magento Multi Vendor Marketplace</a> to be able to use this plugin</p>
+
+<p><em>- Contact us: <a href="mailto:info@magebay.com" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">info@magebay.com</a></em></p>
+
+<p><em>- Website: <a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></p>
